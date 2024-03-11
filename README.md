@@ -16,16 +16,16 @@ tktk Write a short but descriptive summary of the content in this module.
 | -------------------------------------------------------- | :--------: | :---: | -------------------------------------- |
 | [Setup](./setup/README.md)                               |     --     |  --   | Setting up the development environment |
 | [Concepts](./concepts/README.md)                         |     --     |  --   | tktk skills covered                    |
-| [Conditional Expressions](./tktk-microlesson-01/README.md) |     --     |  --   | tktk skills covered                    |
-| [Control Flow](./tktk-microlesson-02/README.md)          |     --     |  --   | tktk skills covered                    |
-| [Looping](./tktk-microlesson-03/README.md)               |     --     |  --   | tktk skills covered                    |
+| [Conditional Expressions](./conditional-expressions/README.md) |     --     |  --   | tktk skills covered                    |
+| [Control Flow](./control-flow/README.md)          |     --     |  --   | tktk skills covered                    |
+| [Looping](./looping/README.md)               |     --     |  --   | tktk skills covered                    |
 | **Total content**                                        |     --     |  --   |                                        |
 
 ## Level Up content
 
 | Lesson                                                   | Video Time | Video | Skills              |
 | -------------------------------------------------------- | :--------: | :---: | ------------------- |
-| [Ranges](./tktk-microlesson-04/README.md)                |     --     |  --   | tktk skills covered |
+| [Ranges](./ranges/README.md)                |     --     |  --   | tktk skills covered |
 | **Total Level Up content**                               |     --     |  --   |                     |
 
 ## References
