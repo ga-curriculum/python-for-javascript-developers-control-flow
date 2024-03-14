@@ -2,7 +2,7 @@
 
 **Learning objective:** By the end of this lesson, students will be able to implement conditional expressions in the Python language.
 
-# Conditional Expressions in Python
+## Conditional Expressions in Python
 
 Control flow typically comes down to different code paths executing according to the evaluation of **conditional expressions**.
 
@@ -10,15 +10,15 @@ In other words, if the **conditional expression** evaluates to *truthiness*, do 
 
 Let’s review some of the logic and fundamentals of conditional expressions.
 
-## Boolean Values
+### Boolean Values
 
 Python has two logical boolean values: `True` and `False`.
 
 Most logical operations result in one of these two values. They work exactly the same as in JS but are always written with a starting capital letter in Python.
 
-## Truthy & Falsy in Python
+### Truthy & Falsy in Python
 
-Like JS, every piece of data in Python is considered either **truthy** or **falsy**.
+Like JavaScript, every piece of data in Python is considered either **truthy** or **falsy**.
 
 Conditional expressions for `if` statements, etc., rely on an expression evaluating to `True`/**truthy** or `False`/**falsy** to determine which path the code will follow.
 
@@ -36,12 +36,10 @@ Here’s what is **falsy** in Python:
     - `{}` (empty dictionary)
     - `range(0)` (empty range)
 
-<aside>
-⚠️ Note that [] and {} in JavaScript are truthy, not falsy as in Python.
+** ⚠️ Note that [] and {} in JavaScript are truthy, not falsy as in Python. **
 
-</aside>
 
-## Comparison Operators
+### Comparison Operators
 
 Python has all the same comparison operators as JavaScript:
 
@@ -80,7 +78,7 @@ Note that in Python, there’s only one equality operator. The `==` in Python is
 
 ```
 
-## Logical Operators
+### Logical Operators
 
 Luckily, the amazing logical operators we used in JavaScript work the same way in Python except Python uses English words instead of symbols:
 
