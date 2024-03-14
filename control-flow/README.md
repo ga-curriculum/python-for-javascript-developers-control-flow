@@ -2,15 +2,15 @@
 
 **Learning objective:** By the end of this lesson, students will be able to write logic to implement control flow in Python.
 
-# Control Flow
+## Control Flow
 
-## Indentation!
+### Indentation!
 
 Before we start looking at control flow, it’s important to realize that **Python uses indentation to define blocks of code** - not curly braces.
 
 It has always been recommended to use indentation in languages for readability purposes, however, in Python, proper indentation is mandatory!
 
-## Branching with the `if` Statement
+### Branching with the `if` Statement
 
 Just like in JavaScript, we have the ability to run one of several code paths depending upon the result of conditional expression(s).
 
@@ -27,7 +27,7 @@ if walls == "sticky":
   print("Clean the walls! They're sticky!")
 ```
 
-Yup, no parentheses are required around the conditional expression.
+No parentheses are required around the conditional expression.
 
 Dual path `if..else` statement:
 
@@ -60,14 +60,13 @@ The `elif` is not a typo :)
 
 Also note that `else` is always optional.
 
-<aside>
-🧠 There is no switch construct in Python
 
-</aside>
+** 🧠 There is no switch construct in Python **
+
 
 ### You Do (5 minutes) 💪
 
-In your **`control_flow.py`** file, add the following code that accepts text input from the user:
+In your **`app.py`** file, add the following code that accepts text input from the user:
 
 ```python
 color = input('Enter "green", "yellow", "red": ').lower()
@@ -84,5 +83,5 @@ Below that code, write an `if...elif...else` statement that prints out one of th
 To run the code, open a terminal in VS Code, then run this command to execute your program: 
 
 ```python
-python3 control_flow.py
+python3 app.py
 ```
