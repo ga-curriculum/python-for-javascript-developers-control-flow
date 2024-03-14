@@ -2,13 +2,13 @@
 
 **Learning objective:** By the end of this lesson, students will be able to write a variety of loops in Python.
 
-# Looping
+## Looping
 
-## The `for` Statement
+### The `for` Statement
 
 Python’s `for` statement is not designed like the one you first used in JavaScript:
 
-```jsx
+```javascript
 // A JavaScript for loop
 for (let i = 0; i < 10; i++) {
   // do stuff
@@ -28,7 +28,7 @@ for name in names:
 
 The above Python code is like the following ES2015 JS:
 
-```jsx
+```javascript
 let names = ["Tom", "Deborah", "Murray", "Axel"];
 
 for (name of names) {
@@ -36,7 +36,7 @@ for (name of names) {
 }
 ```
 
-## The `while` loop
+### The `while` loop
 
 Python also has a `while` loop construct that will continue to iterate **while a given condition is truthy**.
 
@@ -50,15 +50,13 @@ while condition:
 
 `while` loops are great for when you don’t know how many times you will need to iterate.
 
-<aside>
-🚨 Beware of infinite loops! When using while loops, it’s important to ensure that the condition will change to a falsy value so that the loop exits.
 
-</aside>
+** 🚨 Beware of infinite loops! When using while loops, it’s important to ensure that the condition will change to a falsy value so that the loop exits. **
 
-## The `break` Statement
+### The `break` Statement
 
 Just like in JavaScript, the `break` statement in Python can be used to immediately exit `for` and `while` loops and continue executing any statements that may follow them.
 
-## You Do (10 minutes) 💪
+### You Do (10 minutes) 💪
 
-Wrap the code in **`control_flow.py`** in a `while` loop such that it continues to prompt for a color until the word `quit` is entered.
+Wrap the code in **`app.py`** in a `while` loop such that it continues to prompt for a color until the word `quit` is entered.
