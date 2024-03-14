@@ -2,43 +2,33 @@
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module.
+This module provides a comprehensive introduction to Python control flow for beginner to intermediate learners. It covers essential topics like control conditional expressions, Boolean logic, and looping. An advanced lesson includes a look at Ranges in Python.
 
 ## Prerequisites
 
-- tktk
-- tktk
-- tktk
+- Intro to Python
 
 ## Content
 
-| Lesson                                                   | Video Time | Video | Skills                                 |
-| -------------------------------------------------------- | :--------: | :---: | -------------------------------------- |
-| [Setup](./setup/README.md)                               |     --     |  --   | Setting up the development environment |
-| [Concepts](./concepts/README.md)                         |     --     |  --   | tktk skills covered                    |
-| [Conditional Expressions](./conditional-expressions/README.md) |     --     |  --   | tktk skills covered                    |
-| [Control Flow](./control-flow/README.md)          |     --     |  --   | tktk skills covered                    |
-| [Looping](./looping/README.md)               |     --     |  --   | tktk skills covered                    |
-| **Total content**                                        |     --     |  --   |                                        |
+| Lesson | Video Time | Video | Skills |
+| ------ | :--------: | :---: | ------ |
+| [Setup](./setup/README.md) | -- | -- | Setting up the development environment. |
+| [Concepts](./concepts/README.md) | -- | -- | Review the concepts of control flow. |
+| [Conditional Expressions](./conditional-expressions/README.md) | -- | -- | Implement conditional expressions in Python. |
+| [Control Flow](./control-flow/README.md) | -- | -- | Implement control flow in Python. |
+| [Looping](./looping/README.md) | -- | -- | Implement looping logic in Python. |
+| **Total content** | -- | -- | |
 
 ## Level Up content
 
-| Lesson                                                   | Video Time | Video | Skills              |
-| -------------------------------------------------------- | :--------: | :---: | ------------------- |
-| [Ranges](./ranges/README.md)                |     --     |  --   | tktk skills covered |
-| **Total Level Up content**                               |     --     |  --   |                     |
+| Lesson | Video Time | Video | Skills |
+| ------ | :--------: | :---: | ------ |
+| [Ranges](./ranges/README.md) | -- | -- | Learn about the range datatype in Python. |
+| **Total Level Up content**   | -- | -- | |
 
 ## References
 
 📖 [Reference Materials](./references/README.md)
-
-## Deployed sites
-
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](#tktk-deployed-app-url)
-
-🐙 [Repository](#tktk-repository-for-deployed-app)
 
 ## Internal resources
 
