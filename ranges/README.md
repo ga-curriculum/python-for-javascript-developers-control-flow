@@ -10,7 +10,7 @@ The **range** type represents an immutable sequence of numbers and is commonly u
 
 *Ranges* have a class (type) of `range`.
 
-## Ranges - Basic Syntax
+### Ranges - Basic Syntax
 
 Ranges can only be created by invoking the `range()` class:
 
