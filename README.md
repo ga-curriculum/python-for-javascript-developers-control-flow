@@ -1,8 +1,8 @@
-# ![Python Control Flow](./assets/tktk-hero.png)
+# ![Python for Javascript Developers - Control Flow](./assets/tktk-hero.png)
 
 ## About
 
-This module provides a comprehensive introduction to Python control flow for beginner to intermediate learners. It covers essential topics like conditional expressions, Boolean logic, and looping. An advanced lesson includes a look at Ranges in Python.
+This module introduces Python control flow to JavaScript developers, focusing on fundamental concepts like conditional expressions, Boolean logic, and looping in the context of Python's syntax. It aims to show how these familiar principles translate into Python. By the end, students will have the skills to implement control flow in Python, leveraging their JavaScript background in this new environment.
 
 ## Prerequisites
 
@@ -10,21 +10,21 @@ This module provides a comprehensive introduction to Python control flow for beg
 
 ## Content
 
-| Lesson | Video Time | Video | Skills |
-| ------ | :--------: | :---: | ------ |
-| [Setup](./setup/README.md) | -- | -- | Setting up the development environment. |
-| [Concepts](./concepts/README.md) | -- | -- | Review the concepts of control flow. |
-| [Conditional Expressions](./conditional-expressions/README.md) | -- | -- | Implement conditional expressions in Python. |
-| [Control Flow](./control-flow/README.md) | -- | -- | Implement control flow in Python. |
-| [Looping](./looping/README.md) | -- | -- | Implement looping logic in Python. |
-| **Total content** | -- | -- | |
+| Lesson                                                         | Video Time | Video | Skills                                                           |
+| -------------------------------------------------------------- | :--------: | :---: | ---------------------------------------------------------------- |
+| [Setup](./setup/README.md)                                     |     --     |  --   | Setting up the development environment.                          |
+| [Concepts](./concepts/README.md)                               |     --     |  --   | Review the concepts of control flow.                             |
+| [Conditional Expressions](./conditional-expressions/README.md) |     --     |  --   | Writing conditional expressions in Python.                       |
+| [If...Else](./if-else/README.md)                               |     --     |  --   | Implementing control flow with `if...else` statements in Python. |
+| [Looping](./looping/README.md)                                 |     --     |  --   | Implement looping logic in Python.                               |
+| **Total content**                                              |     --     |  --   |                                                                  |
 
 ## Level Up content
 
-| Lesson | Video Time | Video | Skills |
-| ------ | :--------: | :---: | ------ |
-| [Ranges](./ranges/README.md) | -- | -- | Learn about the range datatype in Python. |
-| **Total Level Up content**   | -- | -- | |
+| Lesson                       | Video Time | Video | Skills                                      |
+| ---------------------------- | :--------: | :---: | ------------------------------------------- |
+| [Ranges](./ranges/README.md) |     --     |  --   | Using the range datatype to loop in Python. |
+| **Total Level Up content**   |     --     |  --   |                                             |
 
 ## References
 

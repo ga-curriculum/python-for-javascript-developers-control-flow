@@ -1,4 +1,4 @@
-# ![Python Control Flow - Concepts](./assets/hero.png)
+# ![Python for Javascript Developers - Control Flow - Concepts](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will be able to take their existing knowledge of control flow from JavaScript and use it as framing for their implementation of control flow in Python.
 
