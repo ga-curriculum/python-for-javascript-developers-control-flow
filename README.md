@@ -2,7 +2,7 @@
 
 ## About
 
-This module provides a comprehensive introduction to Python control flow for beginner to intermediate learners. It covers essential topics like control conditional expressions, Boolean logic, and looping. An advanced lesson includes a look at Ranges in Python.
+This module provides a comprehensive introduction to Python control flow for beginner to intermediate learners. It covers essential topics like conditional expressions, Boolean logic, and looping. An advanced lesson includes a look at Ranges in Python.
 
 ## Prerequisites
 
