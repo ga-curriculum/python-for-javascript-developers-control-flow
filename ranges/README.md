@@ -1,16 +1,16 @@
-# ![Python Control Flow - Ranges](./assets/hero.png)
+# ![Python for Javascript Developers - Control Flow - Ranges](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will be able to identify and use ranges in Python.
 
 ## Purpose of Ranges
 
-Python ***ranges*** are a *sequence type* like *lists* and *tuples*.
+Python **_ranges_** are a _sequence type_ like _lists_ and _tuples_.
 
 The **range** type represents an immutable sequence of numbers and is commonly used for looping a specific number of times in `for` loops.
 
-*Ranges* have a class (type) of `range`.
+_Ranges_ have a class (type) of `range`.
 
-### Ranges - Basic Syntax
+## Basic Syntax
 
 Ranges can only be created by invoking the `range()` class:
 
@@ -28,22 +28,23 @@ for even in range(2, 10, 2):
   print(even)
 ```
 
-When not passed in, the *start* value defaults to `0` and the *step* defaults to `1`.
+When not passed in, the _start_ value defaults to `0` and the _step_ defaults to `1`.
 
-Ranges can also be used to create *lists* and *tuples*:
+Ranges can also be used to create _lists_ and _tuples_:
 
 ```python
 nums = list(range(10))
 print(nums)
-> [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+#  [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+
 odds = tuple(range(1, 10, 2))
 print(odds)
-> (1, 3, 5, 7, 9)
+#  (1, 3, 5, 7, 9)
 ```
 
-### Ranges - Negative Step
+## Negative Step
 
-If the *step* is a negative integer, the *sequence* counts down:
+If the _step_ is a negative integer, the _sequence_ counts down:
 
 ```python
 for num in range(5, 0, -1):

@@ -1,4 +1,4 @@
-# ![Python Control Flow - References](./assets/hero.png)
+# ![Python for Javascript Developers - Control Flow - References](./assets/hero.png)
 
 ## Lesson references
 

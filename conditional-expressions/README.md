@@ -1,12 +1,12 @@
-# ![Python Control Flow - Conditional Expressions](./assets/hero.png)
+# ![Python for Javascript Developers - Control Flow - Conditional Expressions](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will be able to implement conditional expressions in the Python language.
 
 ## Conditional Expressions in Python
 
-Control flow typically comes down to different code paths executing according to the evaluation of **conditional expressions**.
+Control flow can typically be described as different code paths executing according to the evaluation of **conditional expressions**.
 
-In other words, if the **conditional expression** evaluates to *truthiness*, do this stuff, optionally, do something else.
+In other words, if the **conditional expression** evaluates to _truthiness_, do something, optionally, do something else.
 
 Let’s review some of the logic and fundamentals of conditional expressions.
 
@@ -30,14 +30,13 @@ Here’s what is **falsy** in Python:
 - `None`
 - Zero in any numeric type: `0`, `0.0` and `0j`
 - Empty sequences or collections:
-    - `''` (empty string)
-    - `[]` (empty list)
-    - `()` (empty tuple)
-    - `{}` (empty dictionary)
-    - `range(0)` (empty range)
+  - `''` (empty string)
+  - `[]` (empty list)
+  - `()` (empty tuple)
+  - `{}` (empty dictionary)
+  - `range(0)` (empty range)
 
-** ⚠️ Note that [] and {} in JavaScript are truthy, not falsy as in Python. **
-
+> ⚠️ Note that `[]` and `{}` in JavaScript are truthy, but falsy in Python.
 
 ### Comparison Operators
 
@@ -53,6 +52,8 @@ Python has all the same comparison operators as JavaScript:
 Note that in Python, there’s only one equality operator. The `==` in Python is the same as `===` in JavaScript.
 
 ### Examples
+
+Let's try the following examples together. Use the `print()` function to print the result of each in your console.
 
 ```python
 8 > 8
@@ -75,8 +76,8 @@ Note that in Python, there’s only one equality operator. The `==` in Python is
 
 6 != 7
 # => True — 6 is not equal to 7.
-
 ```
+
 
 ### Logical Operators
 
@@ -96,6 +97,8 @@ If the first operand is truthy, return it, otherwise return the second operand.
 If the first operand is falsy, return it, otherwise return the second operand.
 
 ### Examples
+
+Let's try the following examples together. Use the `print()` function to print the result of each in your console.
 
 ```python
 True or False

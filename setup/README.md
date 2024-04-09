@@ -1,4 +1,4 @@
-# ![Python Control Flow - Setup](./assets/hero.png)
+# ![Python for Javascript Developers - Control Flow - Setup](./assets/hero.png)
 
 ## Setup
 
@@ -16,16 +16,17 @@ cd python-control-flow
 ```
 
 ```bash
-touch app.py
+touch control_flow_demo.py
 ```
+
 With the file created, open the contents of the directory in VS Code:
 
 ```bash
 code .
 ```
 
-Use `python3` to execute the `app.py` file directly by using this command in your terminal:
+Use `python3` to execute the `control_flow_demo.py` file directly by using this command in your terminal:
 
 ```bash
-python3 app.py
+python3 control_flow_demo.py
 ```
