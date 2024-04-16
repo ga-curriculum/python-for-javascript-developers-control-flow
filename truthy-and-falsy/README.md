@@ -1,4 +1,4 @@
-# ![Python for JavaScript Developers - Control Flow - Boolean Logic](./assets/hero.png)
+# ![Python for JavaScript Developers - Control Flow - Truthy and Falsy](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will be able to implement conditional expressions in Python.
 
