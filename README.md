@@ -1,4 +1,4 @@
-# ![Python for Javascript Developers - Control Flow](./assets/tktk-hero.png)
+# ![Python for JavaScript Developers - Control Flow](./assets/tktk-hero.png)
 
 ## About
 
@@ -14,10 +14,10 @@ This module introduces Python control flow to JavaScript developers, focusing on
 | ------ | :--------: | :---: | ------ |
 | [Setup](./setup/README.md)                                     | -- | -- | Setting up the development environment.                          |
 | [Concepts](./concepts/README.md)                               | -- | -- | Review the concepts of control flow.                             |
-| [Boolean Logic](./boolean-logic/README.md)                     | -- | -- | Use comparison operators to evaluate operands in Python.         |
-| [If...Else](./if-else/README.md)                               | -- | -- | Implement branching logic with `if...else` statements in Python. |
-| [Looping](./looping/README.md)                                 | -- | -- | Implement looping logic in Python.                               |
 | [Truthy and Falsy](./truthy-and-falsy/README.md)               | -- | -- | Truthy and Falsy in Python.                                      |
+| [Boolean Logic](./boolean-logic/README.md)                     | -- | -- | Use conditional expressions in Python.         |
+| [Branching](./branching/README.md)                             | -- | -- | Implement branching logic with `if...else` statements in Python. |
+| [Looping](./looping/README.md)                                 | -- | -- | Implement looping logic in Python.                               |
 | **Total content**                                              | -- | -- |                                                                  |
 
 ## Level Up content

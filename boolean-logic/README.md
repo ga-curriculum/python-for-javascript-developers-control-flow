@@ -103,7 +103,7 @@ If the first operand is falsy, return it; otherwise, return the second operand.
 
 ### Examples
 
-Let's try the following examples together. Use the `print()` function to print each result in your console. Truthy and falsy will be covered in-depth later, but for now it will help to know that 0 is falsy and non-empty strings are truthy.
+Let's try the following examples together. Use the `print()` function to print each result in your console. Remember that 0 is falsy and non-empty strings are truthy.
 
 ```python
 # or
