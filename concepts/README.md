@@ -20,6 +20,6 @@ We also used statements such as `for` and `while` to perform ***looping***. The 
 
 ![Looping](./assets/looping.png)
 
-Python, like most programming languages, shares these same control flow constructs. This similarity enables you to appy your existing knowledge of control flow from JavaScript to Python, making the transition smoother and your learning journey easier.
+Python, like most programming languages, shares these same control flow constructs. This similarity enables you to apply your existing knowledge of control flow from JavaScript to Python, making the transition smoother and your learning journey easier.
 
 It's worth pointing out that many programming concepts, such as variables, data types, control flow, functions, and so on, apply to programming languages in general. Thus, learning additional languages is far easier than learning the first one!
