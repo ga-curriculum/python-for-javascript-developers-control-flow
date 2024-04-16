@@ -8,7 +8,7 @@ As you may recall, ***control flow*** refers to the order in which code executes
 
 There are three basic types of control flow: sequence, branching, and looping.
 
-The most basic type of control flow is ***sequence***, which occurs statements execute one at a time in succession. This is the default behavior.
+The most basic type of control flow is ***sequence***, which occurs when statements execute one at a time in succession. This is the default behavior.
 
 ![Sequence](./assets/sequence.png)
 
