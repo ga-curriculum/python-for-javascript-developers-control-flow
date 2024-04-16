@@ -1,4 +1,4 @@
-# ![Python for Javascript Developers - Control Flow](../assets/tktk-hero.png)
+# ![Python for Javascript Developers - Control Flow](../assets/hero.png)
 
 ## About
 
