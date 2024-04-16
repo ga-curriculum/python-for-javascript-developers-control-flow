@@ -10,21 +10,23 @@ This module introduces Python control flow to JavaScript developers, focusing on
 
 ## Content
 
-| Lesson                                                         | Video Time | Video | Skills                                                           |
-| -------------------------------------------------------------- | :--------: | :---: | ---------------------------------------------------------------- |
-| [Setup](./setup/README.md)                                     |     --     |  --   | Setting up the development environment.                          |
-| [Concepts](./concepts/README.md)                               |     --     |  --   | Review the concepts of control flow.                             |
-| [Conditional Expressions](./conditional-expressions/README.md) |     --     |  --   | Writing conditional expressions in Python.                       |
-| [If...Else](./if-else/README.md)                               |     --     |  --   | Implementing control flow with `if...else` statements in Python. |
-| [Looping](./looping/README.md)                                 |     --     |  --   | Implement looping logic in Python.                               |
-| **Total content**                                              |     --     |  --   |                                                                  |
+| Lesson | Video Time | Video | Skills |
+| ------ | :--------: | :---: | ------ |
+| [Setup](./setup/README.md)                                     | -- | -- | Setting up the development environment.                          |
+| [Concepts](./concepts/README.md)                               | -- | -- | Review the concepts of control flow.                             |
+| [Boolean Logic](./boolean-logic/README.md)                     | -- | -- | Use comparison operators to evaluate operands in Python.         |
+| [If...Else](./if-else/README.md)                               | -- | -- | Implement branching logic with `if...else` statements in Python. |
+| [Looping](./looping/README.md)                                 | -- | -- | Implement looping logic in Python.                               |
+| [Truthy and Falsy](./truthy-and-falsy/README.md)               | -- | -- | Truthy and Falsy in Python.                                      |
+| **Total content**                                              | -- | -- |                                                                  |
 
 ## Level Up content
 
-| Lesson                       | Video Time | Video | Skills                                      |
-| ---------------------------- | :--------: | :---: | ------------------------------------------- |
-| [Ranges](./ranges/README.md) |     --     |  --   | Using the range datatype to loop in Python. |
-| **Total Level Up content**   |     --     |  --   |                                             |
+| Lesson | Video Time | Video | Skills |
+| ------ | :--------: | :---: | ------ |
+| [Ternary Expressions](./ternary-expressions/README.md) | -- | -- | Using ternaries in Python.                  |
+| [Ranges](./ranges/README.md)                           | -- | -- | Using the range datatype to loop in Python. |
+| **Total Level Up content**                             | -- | -- |                                             |
 
 ## References
 

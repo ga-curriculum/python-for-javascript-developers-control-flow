@@ -1,4 +1,4 @@
-# ![Python for Javascript Developers - Control Flow - Setup](./assets/hero.png)
+# ![Python for JavaScript Developers - Control Flow - Setup](./assets/hero.png)
 
 ## Setup
 
@@ -8,25 +8,19 @@ Open your Terminal application and navigate to your **`~/code/ga/lectures`** dir
 cd ~/code/ga/lectures
 ```
 
-Make a new directory called **`python-control-flow`**, then enter this directory:
+Make a new directory called **`python_control_flow`**, then enter this directory:
 
 ```bash
-mkdir python-control-flow
-cd python-control-flow
+mkdir python_control_flow
+cd python_control_flow
 ```
 
 ```bash
-touch control_flow_demo.py
+touch control_flow.py
 ```
 
 With the file created, open the contents of the directory in VS Code:
 
 ```bash
 code .
-```
-
-Use `python3` to execute the `control_flow_demo.py` file directly by using this command in your terminal:
-
-```bash
-python3 control_flow_demo.py
 ```

@@ -1,8 +1,8 @@
-# ![Python for Javascript Developers - Control Flow - Conditional Expressions](./assets/hero.png)
+# ![Python for JavaScript Developers - Control Flow - Boolean Logic](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will be able to implement conditional expressions in the Python language.
+**Learning objective:** By the end of this lesson, students will be able to implement conditional expressions in Python.
 
-## Conditional Expressions in Python
+## Conditional expressions in Python
 
 Control flow can typically be described as different code paths executing according to the evaluation of **conditional expressions**.
 
@@ -10,11 +10,11 @@ In other words, if the **conditional expression** evaluates to _truthiness_, do 
 
 Let’s review some of the logic and fundamentals of conditional expressions.
 
-### Boolean Values
+### Boolean values
 
 Python has two logical boolean values: `True` and `False`.
 
-Most logical operations result in one of these two values. They work exactly the same as in JS but are always written with a starting capital letter in Python.
+Most logical operations result in one of these two values. They work exactly the same as in JavaScript but are always written with a starting capital letter in Python.
 
 ### Truthy & Falsy in Python
 
@@ -77,7 +77,6 @@ Let's try the following examples together. Use the `print()` function to print t
 6 != 7
 # => True — 6 is not equal to 7.
 ```
-
 
 ### Logical Operators
 
