@@ -1,4 +1,4 @@
-# ![Python for Javascript Developers - Control Flow](./assets/hero.png)
+# ![Python for JavaScript Developers - Control Flow](./assets/hero.png)
 
 ## About
 
@@ -12,13 +12,13 @@ This module introduces Python control flow to JavaScript developers, focusing on
 
 | Lesson | Video Time | Video | Skills |
 | ------ | :--------: | :---: | ------ |
-| [Setup](./setup/README.md)                                     | -- | -- | Setting up the development environment.                          |
-| [Concepts](./concepts/README.md)                               | -- | -- | Review the concepts of control flow.                             |
-| [Truthy and Falsy](./truthy-and-falsy/README.md)               | -- | -- | Truthy and Falsy in Python.                                      |
-| [Boolean Logic](./boolean-logic/README.md)                     | -- | -- | Use conditional expressions in Python.         |
-| [Branching](./branching/README.md)                             | -- | -- | Implement branching logic with `if...else` statements in Python. |
-| [Looping](./looping/README.md)                                 | -- | -- | Implement looping logic in Python.                               |
-| **Total content**                                              | -- | -- |                                                                  |
+| [Setup](./setup/README.md)                       | -- | -- | Setting up the development environment.                          |
+| [Concepts](./concepts/README.md)                 | -- | -- | Review the concepts of control flow.                             |
+| [Truthy and Falsy](./truthy-and-falsy/README.md) | -- | -- | Truthy and falsy in Python.                                      |
+| [Boolean Logic](./boolean-logic/README.md)       | -- | -- | Use conditional expressions in Python.                           |
+| [Branching](./branching/README.md)               | -- | -- | Implement branching logic with `if...else` statements in Python. |
+| [Looping](./looping/README.md)                   | -- | -- | Implement looping logic in Python.                               |
+| **Total content**                                | -- | -- |                                                                  |
 
 ## Level Up content
 

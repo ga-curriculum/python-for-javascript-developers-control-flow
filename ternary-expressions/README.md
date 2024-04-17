@@ -1,4 +1,6 @@
-# ![Python for JavaScript Developers - Intro to Python - Ternary Expressions](./assets/hero.png)
+# ![Python for JavaScript Developers - Control Flow - Ternary Expressions](./assets/hero.png)
+
+tktk Hunter, could you update this hero? This microlesson moved from intro to python to this module.
 
 **Learning objective:** By the end of this lesson, students will be able to create Ternary expressions in Python.
 

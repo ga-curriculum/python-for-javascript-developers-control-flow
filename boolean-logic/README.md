@@ -27,7 +27,7 @@ There's only one type of equality operator in Python: `==`, which is the same as
 
 ### Examples
 
-Let's try the following examples together. Use the `print()` function to print each result in your console.
+Check out the following examples:
 
 ```python
 print(7 == 7)
@@ -45,10 +45,6 @@ print(7 != 7)
 print(7 != "7")
 # prints: True 
 # 7 is an integer, and "7" is a string; therefore, they cannot be equal
-
-print(6 != 7)
-# prints: True 
-# 6 is not equal to 7
 ```
 
 Execute the `control_flow.py` file with this command:
@@ -86,20 +82,17 @@ print(8 < 8)
 
 ## Logical operators
 
-Luckily, the amazing logical operators we used in JavaScript work the same way in Python, except Python uses English words instead of symbols:
+Logical operators we used in JavaScript work the same way in Python, except Python uses English words instead of symbols:
 
 - `or` is the same as `||`
 - `and` is the same as `&&`
 
 Because they behave identically to their JavaScript counterparts, they always return either the ***first*** or the ***second*** operand as follows:
 
-### `or`
+- `or` - Returns the first truthy operand, or the last operand.
+- `and` - Returns the first falsy operand, or the last operand.
 
-If the first operand is truthy, return it; otherwise, return the second operand.
-
-### `and`
-
-If the first operand is falsy, return it; otherwise, return the second operand.
+Python stops evaluating as soon as the result of the operation is determined.
 
 ### Examples
 
@@ -122,6 +115,9 @@ print('hello' or 0)
 # prints: 'hello'
 
 print(0 or 'hello')
+# prints: 'hello'
+
+print('hello' and 'tacos')
 # prints: 'hello'
 
 # and
@@ -166,9 +162,18 @@ print(True and True and False)
 # prints: False
 ```
 
+You can also mix-and-match `and` and `or`:
+
+```python
+print(False or True and True)
+# prints: True
+```
+
+> ⚠️ Be careful evaluating more than two items at a time, it can make code more difficult to read.
+
 ## The `not` operator
 
-Just like the not operator in JavaScript `!`, the `not` operator in Python flips a truthy expression to a boolean value of `False`, and a falsy expression to a boolean value of `True`.
+Just like the not operator in JavaScript (`!`), the `not` operator in Python flips a truthy expression to a boolean value of `False`, and a falsy expression to a boolean value of `True`.
 
 ### Examples
 

@@ -33,7 +33,7 @@ if walls == "sticky":
     print("Clean the walls! They're sticky!")
 ```
 
-> 🧠 A quick note on code style - we follow the [PEP8 Style Guide for Python Code](https://peps.python.org/pep-0008/#string-quotes) as closely as possible for all our work in Python. In this convention we use 4-space indentation.
+> 🧠 A quick note on code style - we follow the [PEP8 Style Guide for Python Code](https://peps.python.org/pep-0008/) as closely as possible for all our work in Python. In this convention we use 4-space indentation.
 
 Dual path `if...else` statement:
 

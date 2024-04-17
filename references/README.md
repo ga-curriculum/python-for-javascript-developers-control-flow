@@ -1,9 +1,6 @@
-# ![Python for Javascript Developers - Control Flow - References](./assets/hero.png)
+# ![Python for JavaScript Developers - Control Flow - References](./assets/hero.png)
 
 ## Lesson references
 
-- [Official Docs for Control Flow in Python](https://docs.python.org/3/tutorial/controlflow.html#)
-
-## Level Up references
-
-- [Official Docs for Ranges in Python](https://docs.python.org/3/tutorial/controlflow.html#the-range-function)
+- [PEP8 Style Guide for Python Code](https://peps.python.org/pep-0008/)
+- [Python Docs - Control Flow - The `range()` function](https://docs.python.org/3/tutorial/controlflow.html#the-range-function)
