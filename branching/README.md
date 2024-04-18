@@ -92,5 +92,5 @@ Below that code, write an `if...elif...else` statement that prints out one of th
 Use the following command to run this code in your terminal:
 
 ```bash
-python3 control_flow_demo.py
+python3 control_flow.py
 ```
