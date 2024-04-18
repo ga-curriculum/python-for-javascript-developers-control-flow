@@ -117,7 +117,7 @@ print('hello' or 0)
 print(0 or 'hello')
 # prints: 'hello'
 
-print('hello' and 'tacos')
+print('hello' or 'tacos')
 # prints: 'hello'
 
 # and
