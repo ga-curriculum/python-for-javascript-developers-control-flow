@@ -14,7 +14,7 @@ let morning = timeOfDay < 12 ? true : false;
 // Without a ternary expression
 let timeOfDay = 9
 let morning;
-if (timeOfDay < 9) {
+if (timeOfDay < 12) {
   morning = true;
 } else {
   morning = false;
