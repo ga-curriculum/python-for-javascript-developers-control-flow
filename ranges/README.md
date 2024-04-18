@@ -44,7 +44,7 @@ print(nums)
 # prints: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 ```
 
-## Negative Step
+## Negative step
 
 If the step is a negative integer, the sequence counts down:
 
