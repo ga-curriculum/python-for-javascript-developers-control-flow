@@ -34,8 +34,6 @@ The ***start*** (the first argument above - `4`) indicates the starting integer.
 
 The ***step*** (the last argument above - `2`) is an integer added to the current value after each iteration to determine the next value.
 
-tktk Hunter, could we get an asset for the above? Wording this is horrible but what I really want to show is 4 + 2 is 6 and 6 + 2 is 8 and 8 + 2 is 10 - each time we incremet we add 2.
-
 When not passed in, the start value defaults to `0`, and the step defaults to `1`.
 
 Ranges can also be used to create lists:
