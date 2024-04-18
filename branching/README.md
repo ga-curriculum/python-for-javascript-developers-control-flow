@@ -38,6 +38,8 @@ if walls == "sticky":
 Dual path `if...else` statement:
 
 ```python
+val = 3
+
 # if path
 if val == 1:
     print('val is one')
