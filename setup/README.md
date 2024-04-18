@@ -2,18 +2,20 @@
 
 ## Setup
 
-Open your Terminal application and navigate to your **`~/code/ga/lectures`** directory:
+Open your Terminal application and navigate to your `~/code/ga/lectures` directory:
 
 ```bash
 cd ~/code/ga/lectures
 ```
 
-Make a new directory called **`python_control_flow`**, then enter this directory:
+Make a new directory called `python_control_flow`, then enter this directory:
 
 ```bash
 mkdir python_control_flow
 cd python_control_flow
 ```
+
+Once in this directory, create a `control_flow.py` file:
 
 ```bash
 touch control_flow.py
