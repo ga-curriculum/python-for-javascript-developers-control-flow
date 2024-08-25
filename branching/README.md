@@ -75,7 +75,7 @@ The `elif` is not a typo! It is Python's syntax for `else if`
 
 ## 🎓 You Do
 
-In your **`control_flow_demo.py`** file, add the following code that accepts text input from the user:
+In your **`control_flow.py`** file, add the following code that accepts text input from the user:
 
 ```python
 color = input('Enter "green", "yellow", "red": ').lower()
