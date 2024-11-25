@@ -71,8 +71,6 @@ The `elif` is not a typo! It is Python's syntax for `else if`
 
 `else` is always optional, just like it is in JavaScript.
 
-> 🧠 Note: There is no switch construct in Python.
-
 ## 🎓 You Do
 
 In your **`control_flow.py`** file, add the following code that accepts text input from the user:
