@@ -1,4 +1,7 @@
-# ![Python for JavaScript Developers - Control Flow - Ternary Expressions](./assets/hero.png)
+<h1>
+  <span class="headline">Control Flow</span>
+  <span class="subhead">Ternary Expressions</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will be able to create Ternary expressions in Python.
 

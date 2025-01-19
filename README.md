@@ -1,32 +1,62 @@
-# ![Python for JavaScript Developers - Control Flow](./assets/hero.png)
+<h1>
+  <span class="prefix">Python for JavaScript Developers</span>
+  <span class="headline">Control Flow</span>
+</h1>
 
 ## About
 
 This module introduces Python control flow to JavaScript developers, focusing on fundamental concepts like conditional expressions, Boolean logic, and looping in the context of Python's syntax. It aims to show how these familiar principles translate into Python. By the end, students will have the skills to implement control flow in Python, leveraging their JavaScript background in this new environment.
 
-## Prerequisites
-
-- Intro to Python
-
 ## Content
 
 | Lesson | Video Time | Video | Skills |
 | ------ | :--------: | :---: | ------ |
-| [Setup](./setup/README.md)                       |  1 min | [link](https://generalassembly.wistia.com/medias/qfju0qxfxv) | Setting up the development environment.                          |
-| [Concepts](./concepts/README.md)                 |  2 min | [link](https://generalassembly.wistia.com/medias/hp59e942pc) | Review the concepts of control flow.                             |
-| [Truthy and Falsy](./truthy-and-falsy/README.md) |  2 min | [link](https://generalassembly.wistia.com/medias/s1ilkfbcks) | Truthy and falsy in Python.                                      |
-| [Boolean Logic](./boolean-logic/README.md)       | 10 min | [link](https://generalassembly.wistia.com/medias/yi2m0vks6n) | Use conditional expressions in Python.                           |
-| [Branching](./branching/README.md)               | 11 min | [link](https://generalassembly.wistia.com/medias/7baje881re) | Implement branching logic with `if...else` statements in Python. |
-| [Looping](./looping/README.md)                   | 10 min | [link](https://generalassembly.wistia.com/medias/l4rz6h98un) | Implement looping logic in Python.                               |
-| **Total content**                                | 36 min | --                                                           |                                                                  |
+| [Setup](./setup/README.md)                             |  1 min | [link](https://generalassembly.wistia.com/medias/qfju0qxfxv) | Setting up the development environment.                          |
+| [Concepts](./concepts/README.md)                       |  2 min | [link](https://generalassembly.wistia.com/medias/hp59e942pc) | Review the concepts of control flow.                             |
+| [Truthy and Falsy](./truthy-and-falsy/README.md)       |  2 min | [link](https://generalassembly.wistia.com/medias/s1ilkfbcks) | Truthy and falsy in Python.                                      |
+| [Boolean Logic](./boolean-logic/README.md)             | 10 min | [link](https://generalassembly.wistia.com/medias/yi2m0vks6n) | Use conditional expressions in Python.                           |
+| [Branching](./branching/README.md)                     | 11 min | [link](https://generalassembly.wistia.com/medias/7baje881re) | Implement branching logic with `if...else` statements in Python. |
+| [Looping](./looping/README.md)                         | 10 min | [link](https://generalassembly.wistia.com/medias/l4rz6h98un) | Implement looping logic in Python.                               |
+| [Ternary Expressions](./ternary-expressions/README.md) | 3 min  | [link](https://generalassembly.wistia.com/medias/1g3z3z4gak) | Using ternaries in Python.                                       |
+| [Ranges](./ranges/README.md)                           | 6 min  | [link](https://generalassembly.wistia.com/medias/0d8iimo3s1) | Using the range datatype to loop in Python.                      |
+| **Total content**                                      | 45 min | --                                                           |                                                                  |
+
+## References
+
+📖 [Reference Materials](./references/README.md)
+
+## Internal
+
+### Prerequisites
+
+- Intro to Python
+
+### Course landing pages
+
+- [SEB - Software Engineering Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/python-for-javascript-developers-control-flow/canvas-landing-pages/seb.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/python-for-javascript-developers-control-flow/canvas-landing-pages/fallback.html)
+
+### Resources
+
+✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
+
+🎥 [Video Hub](./internal-resources/video-hub.md)
+
+🏗️ [Release Notes](./internal-resources/release-notes.md)
+
+---
+
+**Find a 👾 bug 👾 or have suggestions? [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback.html)!**
+
+    
+
+## Content
+
+
 
 ## Level Up content
 
-| Lesson | Video Time | Video | Skills |
-| ------ | :--------: | :---: | ------ |
-| [Ternary Expressions](./ternary-expressions/README.md) | 3 min | [link](https://generalassembly.wistia.com/medias/1g3z3z4gak) | Using ternaries in Python.                  |
-| [Ranges](./ranges/README.md)                           | 6 min | [link](https://generalassembly.wistia.com/medias/0d8iimo3s1) | Using the range datatype to loop in Python. |
-| **Total Level Up content**                             | 9 min | --                                                           |                                             |
+
 
 ## References
 

@@ -1,4 +1,7 @@
-# ![Release Notes](../assets/release-notes.png)
+<h1>
+  <span class="headline">Control Flow</span>
+  <span class="subhead">Release Notes</span>
+</h1>
 
 ## Version 1.0 - Updates from legacy content
 
@@ -12,5 +15,5 @@ This release modularizes the legacy Python Control Flow lecture and provides som
 
 #### Changes
 
-- Add more code to examples to enable demonstration of concepts and instructor flexiblity in delivering content.
+- Add more code to examples to enable demonstration of concepts and instructor flexibility in delivering content.
 - `print()` most examples, allowing for more flexibility in demonstrations.

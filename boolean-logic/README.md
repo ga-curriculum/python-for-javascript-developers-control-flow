@@ -1,4 +1,7 @@
-# ![Python for JavaScript Developers - Control Flow - Boolean Logic](./assets/hero.png)
+<h1>
+  <span class="headline">Control Flow</span>
+  <span class="subhead">Boolean Logic</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will be able to implement conditional expressions in Python.
 

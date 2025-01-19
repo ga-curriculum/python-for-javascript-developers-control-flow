@@ -1,4 +1,7 @@
-# ![Python for JavaScript Developers - Control Flow - Looping](./assets/hero.png)
+<h1>
+  <span class="headline">Control Flow</span>
+  <span class="subhead">Looping</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will be able to implement control flow with loops in Python.
 

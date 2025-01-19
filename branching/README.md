@@ -1,4 +1,7 @@
-# ![Python for JavaScript Developers - Control Flow - If...Else](./assets/hero.png)
+<h1>
+  <span class="headline">Control Flow</span>
+  <span class="subhead">Branching</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will be able to use `if...else` statements to implement control flow in Python.
 

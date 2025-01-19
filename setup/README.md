@@ -1,4 +1,7 @@
-# ![Python for JavaScript Developers - Control Flow - Setup](./assets/hero.png)
+<h1>
+  <span class="headline">Control Flow</span>
+  <span class="subhead">Setup</span>
+</h1>
 
 ## Setup
 
