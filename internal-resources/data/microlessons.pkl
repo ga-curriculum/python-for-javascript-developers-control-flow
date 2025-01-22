@@ -1,0 +1,60 @@
+import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/static/v2/pkl/template.pkl" as Template
+
+// Add microlessons here, in the order they should be delivered
+
+setup = new Template.Microlesson {
+  friendlyName = "Setup"
+  dirName = "setup"
+  type = "Content"
+  videoUrl = "https://generalassembly.wistia.com/medias/qfju0qxfxv"
+}
+
+concepts = new Template.Microlesson {
+  friendlyName = "Concepts"
+  dirName = "concepts"
+  type = "Content"
+  videoUrl = "https://generalassembly.wistia.com/medias/hp59e942pc"
+}
+
+truthyAndFalsy = new Template.Microlesson {
+  friendlyName = "Truthy and Falsy"
+  dirName = "truthy-and-falsy"
+  type = "Content"
+  videoUrl = "https://generalassembly.wistia.com/medias/s1ilkfbcks"
+}
+
+booleanLogic = new Template.Microlesson {
+  friendlyName = "Boolean Logic"
+  dirName = "boolean-logic"
+  type = "Content"
+  videoUrl = "https://generalassembly.wistia.com/medias/yi2m0vks6n"
+}
+
+branching = new Template.Microlesson {
+  friendlyName = "Branching"
+  dirName = "branching"
+  type = "Content"
+  videoUrl = "https://generalassembly.wistia.com/medias/7baje881re"
+}
+
+looping = new Template.Microlesson {
+  friendlyName = "Looping"
+  dirName = "looping"
+  type = "Content"
+  videoUrl = "https://generalassembly.wistia.com/medias/l4rz6h98un"
+}
+
+ternaryExpressions = new Template.Microlesson {
+  friendlyName = "Ternary Expressions"
+  dirName = "ternary-expressions"
+  type = "Content"
+  videoUrl = "https://generalassembly.wistia.com/medias/1g3z3z4gak"
+}
+
+ranges = new Template.Microlesson {
+  friendlyName = "Ranges"
+  dirName = "ranges"
+  type = "Content"
+  videoUrl = "https://generalassembly.wistia.com/medias/0d8iimo3s1"
+}
+

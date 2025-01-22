@@ -1,4 +1,7 @@
-# ![Python for JavaScript Developers - Control Flow](../assets/hero.png)
+<h1>
+  <span class="prefix">Python for JavaScript Developers</span>
+  <span class="headline">Control Flow</span>
+</h1>
 
 ## About
 
